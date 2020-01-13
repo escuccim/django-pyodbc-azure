@@ -37,11 +37,13 @@ Dependencies
 Installation
 ------------
 
+There is a pull request pending to the original code from which this was forked. Since it has not been accepted I have created a new PIP package which can be installed using the commands below:
+
 1. Install pyodbc and Django
 
 2. Install django-pyodbc-azure ::
 
-    pip install django-pyodbc-azure
+    pip install django-pyodbc-azure-2019
 
 3. Now you can point the ``ENGINE`` setting in the settings file used by
    your Django application or project to the ``'sql_server.pyodbc'``
