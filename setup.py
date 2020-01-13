@@ -20,7 +20,7 @@ setup(
     version='2.1.0.0',
     description='Django backend for Microsoft SQL Server and Azure SQL Database using pyodbc, compatible with SQL Server 2019',
     long_description=open('README.rst').read(),
-    author='Michiya Takahashi',
+    author='Michiya Takahashi, updated by Eric A Scuccimarra (skooch@gmail.com)',
     author_email='michiya.takahashi@gmail.com',
     url='https://github.com/escuccim/django-pyodbc-azure',
     license='BSD',
