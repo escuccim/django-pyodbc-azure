@@ -14,6 +14,8 @@ DB backend that uses ODBC by employing the
 `pyodbc <https://github.com/mkleehammer/pyodbc>`__ library. It supports
 Microsoft SQL Server and Azure SQL Database.
 
+This current fork has added a single line of code to enable compatibility with SQL Server 2019 v15. 
+
 Features
 --------
 
